@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 ## Current Projects
 
 <!--[**Atom Loves You**](https://atom-loves-you.github.io/atom-loves-you/) 
-Experiments with Electronic Music, Visual Art & Computer Science
+Experiments with Electronic Music, Visual Art & Computer Science-->
 
 [**Really Boring Games**](https://really-boring-games.github.io/really-boring-games/) 
 Primarily focused on leisurely, self-paced environmental exploration and visual art.
--->
+
 
 ### Skills, Tools & Areas of Focus
 3D Materials
