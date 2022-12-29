@@ -8,5 +8,6 @@
 |[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Eugene Oregon’s Community Gardens](#)  |
 
 
-<p align="center">Brutalist Aesthetic </p>
-<p align="center"><img width="auto" height="300" src="https://assets.codepen.io/6566924/404-01.png"></p>
+<p align="center">
+<img align="center" width="100" height="100" src="https://assets.codepen.io/6566924/404-01.png">
+Brutalist Aesthetic </p>
