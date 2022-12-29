@@ -18,6 +18,11 @@ Experiments with Electronic Music, Visual Art & Computer Science-->
 Primarily focused on leisurely, self-paced environmental exploration and visual art.
 
 
+Design:
+ - # [ Perfect Day](https://red-spring-studio.github.io/perfect-day/)
+
+
+
 ### Skills, Tools & Areas of Focus
 3D Materials
 3D Modeling
