@@ -18,8 +18,11 @@ Experiments with Electronic Music, Visual Art & Computer Science-->
 Primarily focused on leisurely, self-paced environmental exploration and visual art.
 
 
-Design:
+Web & App Design:
  - # [ Perfect Day](https://red-spring-studio.github.io/perfect-day/)
+ - # [Click Happy Shutter Remote](#)
+ - # [Only Cats](#)
+ - # [ Eugene Oregon’s Community Gardens](#)
 
 
 
