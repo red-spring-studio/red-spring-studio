@@ -1,7 +1,8 @@
 |Have a Look |Current Projects |
 |--|--|
-|[12-01-22](https://really-boring-games.github.io/really-boring-games/)  |[Really Boring Games](#)<br><img width="500" height="auto" src="https://assets.codepen.io/6566924/Capture.PNG"></p>  |
-|[12-29-22](#)  |[Click Happy Shutter Remote](#)<img width="500" height="auto" src="https://lh5.googleusercontent.com/UaykW5U3xHZzOxnPelyEQgIZkKmkStJEAVkoTbF4DwLR3P-8o15fL-PUfKfzY_1qtzQxHjR0f9GUBNLohULfOhdk9GvVExs0x405liOuZXo7gF262ygXl26nvanJMaMAB-eAE6dNKDJy31dFu8LWRQ=w1280"></p>  |<br>An app for your watch that makes creating stop-motion videos with your phone  easy.  |
-|[12-29-22](https://assets.codepen.io/6566924/Tone.js+Oscillator-Step+Sequencer-Cover-1.svg)  |[Step Sequencer One](#)<img width="500" height="auto" src="https://assets.codepen.io/6566924/Tone.js+Oscillator-Step+Sequencer-Cover-1.svg"></p>  |
-|[12-29-22](https://red-spring-studio.github.io/only-cats/)  |[Only Cats Instagram Clone](#)<img width="500" height="auto" src="https://assets.codepen.io/6566924/Photo+Nov+11%2C+11+22+38+PM.png"></p>  |  |
-|[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Eugene Oregon’s Community Gardens](https://sites.google.com/view/khristin-schenk/project-page-eugene-oregons-community-gardens-app-website)<img width="500" height="auto" src="https://lh5.googleusercontent.com/TuWMFvRhXfoCs6h9WlGhXVni4CZlcRxU7T_5PxtnCtSqifxQuOXTxbrVe653WkG5nBp0VIiCaSa_F9YTTsNTqzsIhV7NGGrWG8t-jH0sjB5b8gxLJYbCV7afPWT_wPURW_odpYoGoeZBuG91MD4n-A=w1280"></p>  |  |
+|[12-01-22](https://really-boring-games.github.io/really-boring-games/)  |[Really Boring Games](#)<br>Primarily focused on leisurely, self-paced environmental exploration and unusual visual art. |
+|[12-29-22](#)  |[Click Happy Shutter Remote](#)<br>helping them to create seamless stop-motion videos.  |
+|[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Step Sequencer One](#)  |
+|[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Click Happy Shutter Remote](#)  |
+|[12-29-22](https://red-spring-studio.github.io/only-cats/)  |[Only Cats Instagram Clone](#)  |
+|[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Eugene Oregon’s Community Gardens](#)  |
