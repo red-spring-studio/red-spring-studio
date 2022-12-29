@@ -1,3 +1,4 @@
+
  @red-spring-studio designs and develops digital products.
 - 📫 How to reach me red.spring.studio.khristin@gmail.com
 
@@ -11,16 +12,53 @@ You can click the Preview link to take a look at your changes.
 
 ## Current Projects
 
+
+[Really Boring Games](https://really-boring-games.github.io/really-boring-games/)
+<img width="500" height="auto" src="https://assets.codepen.io/6566924/Capture.PNG"></p>
+
+
+
+[Click Happy Shutter Remote](#)
+<img width="500" height="auto" src="https://lh5.googleusercontent.com/UaykW5U3xHZzOxnPelyEQgIZkKmkStJEAVkoTbF4DwLR3P-8o15fL-PUfKfzY_1qtzQxHjR0f9GUBNLohULfOhdk9GvVExs0x405liOuZXo7gF262ygXl26nvanJMaMAB-eAE6dNKDJy31dFu8LWRQ=w1280"></p> 
+
+
+
+[Eugene Oregon’s Community Gardens](#)
+<img width="500" height="auto" src="https://lh5.googleusercontent.com/TuWMFvRhXfoCs6h9WlGhXVni4CZlcRxU7T_5PxtnCtSqifxQuOXTxbrVe653WkG5nBp0VIiCaSa_F9YTTsNTqzsIhV7NGGrWG8t-jH0sjB5b8gxLJYbCV7afPWT_wPURW_odpYoGoeZBuG91MD4n-A=w1280"></p> 
+
+
+[/](#)
+<img width="500" height="auto" src="/"></p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--[**Atom Loves You**](https://atom-loves-you.github.io/atom-loves-you/) 
 Experiments with Electronic Music, Visual Art & Computer Science-->
 
-|Updated on: |Current Projects |
-|--|--|
-|[12-01-22](https://really-boring-games.github.io/really-boring-games/)  |[Really Boring Games](#)<br><img width="500" height="auto" src="https://assets.codepen.io/6566924/Capture.PNG"></p>  |
-|[12-29-22](#)  |[Click Happy Shutter Remote](#)<img width="500" height="auto" src="https://lh5.googleusercontent.com/UaykW5U3xHZzOxnPelyEQgIZkKmkStJEAVkoTbF4DwLR3P-8o15fL-PUfKfzY_1qtzQxHjR0f9GUBNLohULfOhdk9GvVExs0x405liOuZXo7gF262ygXl26nvanJMaMAB-eAE6dNKDJy31dFu8LWRQ=w1280"></p>  |<br>An app for your watch that makes creating stop-motion videos with your phone  easy.  |
-|[12-29-22](https://assets.codepen.io/6566924/Tone.js+Oscillator-Step+Sequencer-Cover-1.svg)  |[Step Sequencer One](#)<img width="500" height="auto" src="https://assets.codepen.io/6566924/Tone.js+Oscillator-Step+Sequencer-Cover-1.svg"></p>  |
-|[12-29-22](https://red-spring-studio.github.io/only-cats/)  |[Only Cats Instagram Clone](#)<img width="500" height="auto" src="https://assets.codepen.io/6566924/Photo+Nov+11%2C+11+22+38+PM.png"></p>  |  |
-|[12-29-22](https://red-spring-studio.github.io/perfect-day/)  |[Eugene Oregon’s Community Gardens](https://sites.google.com/view/khristin-schenk/project-page-eugene-oregons-community-gardens-app-website)<img width="500" height="auto" src="https://lh5.googleusercontent.com/TuWMFvRhXfoCs6h9WlGhXVni4CZlcRxU7T_5PxtnCtSqifxQuOXTxbrVe653WkG5nBp0VIiCaSa_F9YTTsNTqzsIhV7NGGrWG8t-jH0sjB5b8gxLJYbCV7afPWT_wPURW_odpYoGoeZBuG91MD4n-A=w1280"></p>  | 
+
+
+## Risograph
+   [Risograph Print Aesthetic Landing
+   Page](https://atom-loves-you.github.io/Risograph-Print-Aesthetic-Project-Landing-Page/)
+
+ - [Useful tools for Risograph
+   printing](https://github.com/atom-loves-you/Risograph)
+
+ - [Riso Color Poster made with
+   CSS](https://atom-loves-you.github.io/css-risograh-color-chart/)
+
 
 <!--
 ### Skills, Tools & Areas of Focus
